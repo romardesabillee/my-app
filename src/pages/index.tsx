@@ -18,6 +18,7 @@ export default function Home() {
       <h1>Alawabalo Patotoya!
       Alawabalo Patotoya!
       Alawabalo Patotoya!
+      test
       </h1>
       </div>
     </>
